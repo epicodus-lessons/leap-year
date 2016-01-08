@@ -15,3 +15,5 @@ describe('leapYear', function() {
     expect(leapYear(2000)).to.equal(true);
   });
 });
+
+// Non-numeric entries?

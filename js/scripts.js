@@ -2,6 +2,8 @@ var leapYear = function(year) {
   return ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
 };
 
+//I like your refactored code!  
+
 $(document).ready(function() {
   $("form#leap-year").submit(function(event) {
     var year = parseInt($("input#year").val());
