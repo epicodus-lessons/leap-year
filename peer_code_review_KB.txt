@@ -1,0 +1,22 @@
+* Do specifications cover all of the behaviors that need to be tested?
+Great specs.  Maybe add a couple of additional specs to cover
+NO data entered or non-numeric data when a user is "trying" to break
+the application.
+* Are unit specs passing?
+
+* Are integration specs passing?
+
+* Is logic easy to understand?
+
+* Is code properly indented and spaced?
+
+* Are variable names descriptive?
+Yes.  Very clear and concise.
+
+* Does Sinatra application use views, instance variables and form data correctly?
+
+* Is the app deployed to Heroku?
+
+* Are Git commits in the proper tense?
+
+* Does the GitHub README follow the proper format?
