@@ -1,0 +1,6 @@
+* Is the Github documentation - commits and README - thorough and descriptive?
+Yes.  Nice job.
+* Is there good spec coverage (unit and integration)?
+You might think about adding coverage for users who don't enter anything or enter "bad" data
+* Do all specs pass?
+Yes.
